@@ -1,7 +1,7 @@
 # IB Computer Science HL IA
 
 This is the reporting of my IB Computer Science HL internal asssessment. I called it ChronoStress, which is a time management app.
-![Interoperability]("C:\Users\merin\Downloads\Interoperability.png")
+
 ![Interoperability](https://github.com/user-attachments/assets/9e32f8f6-39c0-4adf-adcf-357ae583ebe9)
 
 ![Combining data structures]("C:\Users\merin\Downloads\Data_Structures.png")
