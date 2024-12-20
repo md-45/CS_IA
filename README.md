@@ -1,9 +1,9 @@
 # IB Computer Science HL IA
 
 This is the reporting of my IB Computer Science HL internal asssessment. I called it ChronoStress, which is a time management app.
-![Interoperability]("C:\Users\merin\Downloads\G_ML_classified.png")
+![Interoperability]("C:\Users\merin\Downloads\Interoperability.png")
 
-![Combining data structures]("C:\Users\merin\Downloads\G_ML_hierarch.png")
+![Combining data structures]("C:\Users\merin\Downloads\Data_Structures.png")
 
 Link to project: [https://replit.com/@md-4516/IA-Cover-Page](https://replit.com/@md-4516/IA-Cover-Page)
 
